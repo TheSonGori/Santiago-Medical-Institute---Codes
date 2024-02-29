@@ -28,4 +28,4 @@
 7. **Resultado:**
    Después de unos minutos, el script generará el archivo Excel en la misma carpeta.
 
-¡Listo! Ahora puedes disfrutar de la generación automatizada de archivos Excel. Si tienes alguna pregunta o problema, no dudes en contactarnos. ¡Gracias por utilizar nuestra herramienta!
+¡Listo! Ahora puedes disfrutar de la generación automatizada de archivos Excel.
