@@ -17,7 +17,7 @@
    Asegúrate de descargar los archivos `PLANTILLA.xlsx` y `main.py` y colócalos en la misma carpeta.
 
 4. **Abrir Terminal y Ejecutar el Script:**
-   En la carpeta que contiene los archivos, abre una terminal. Si estás utilizando Windows, puedes hacer clic derecho y seleccionar "Abrir terminal aquí" o "Abrir ventana de comandos aquí".
+   En la carpeta que contiene los archivos, abre una terminal. Si estás utilizando Windows, puedes hacer shift + clic derecho y seleccionar "Abrir terminal aquí" o "Abrir ventana de comandos aquí" o "Abrir vetana de Power Shell aquí".
 
 5. **Ejecutar el Script:**
    Utiliza el siguiente comando en la terminal: `python main.py`.
